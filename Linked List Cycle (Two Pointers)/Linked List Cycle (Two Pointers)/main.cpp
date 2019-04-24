@@ -35,8 +35,6 @@ public:
             if (i->next)
                 i = i->next->next;
         }
-        
-        
         return false;
     }
 };
