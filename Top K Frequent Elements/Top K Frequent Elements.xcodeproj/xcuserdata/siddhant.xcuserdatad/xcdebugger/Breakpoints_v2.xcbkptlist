@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Top K Frequent Elements/main.cpp"
+            timestampString = "578348478.551748"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "main()"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Top K Frequent Elements/main.cpp"
+            timestampString = "578348478.552371"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "topKFrequent(vector&lt;int&gt;&amp; nums, int k)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Top K Frequent Elements/main.cpp"
+            timestampString = "578348478.552797"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "topKFrequent(vector&lt;int&gt;&amp; nums, int k)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Solution::topKFrequent(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;&amp;, int)"
+                  moduleName = "Top K Frequent Elements"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documentsl/Interview%20Prep/Code/Top%20K%20Frequent%20Elements/Top%20K%20Frequent%20Elements/main.cpp"
+                  timestampString = "578348432.8429739"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "298">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Solution::topKFrequent(std::__1::vector&lt;int, std::__1::allocator&lt;int&gt; &gt;&amp;, int)"
+                  moduleName = "Top K Frequent Elements"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Documentsl/Interview%20Prep/Code/Top%20K%20Frequent%20Elements/Top%20K%20Frequent%20Elements/main.cpp"
+                  timestampString = "578348432.846553"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "313">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
